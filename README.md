@@ -52,7 +52,7 @@ The global **Workplace Analytics & Workforce Intelligence sector** is estimated 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
 | Repository & Stars | Description | Tech Stack & License | Key Focus |
 | :--- | :--- | :--- | :--- |
